@@ -1,4 +1,4 @@
-package day5;
+package com.example.javaproject.week1.d5;
 
 public class User {
     // 이름, 전화번호, 나이
